@@ -1,0 +1,60 @@
+.board-container{
+    display: flex;
+    margin: 6rem;
+    gap: 2rem;
+}
+
+.board{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.board-row{
+    display: flex;
+}
+
+.btl{
+    border-top: none;
+    border-left: none;
+}
+
+.bt{
+    border-top: none;
+}
+
+.btr{
+    border-top: none;
+    border-right: none;
+}
+
+.bl{
+    border-left: none;
+}
+
+.br{
+    border-right: none;
+}
+
+.bbl{
+    border-bottom: none;
+    border-left: none;
+}
+
+.bb{
+    border-bottom: none;
+}
+
+.bbr{
+    border-bottom: none;
+    border-right: none;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}

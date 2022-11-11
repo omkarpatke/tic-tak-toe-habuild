@@ -1,0 +1,14 @@
+.navbar{
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: black;
+}
+
+h2{
+    font-weight: 600;
+    color: #fff;
+    padding: 0 3rem;
+}
